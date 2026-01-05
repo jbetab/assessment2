@@ -1,0 +1,19 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  api:
+    build:
+      context: "/home/beta/Escritorio/OnlineCourses"
+      dockerfile: "Dockerfile"
+      target: "build"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net9.0/OnlineCourses.Api.dll"
+    environment: {}
+    image: "onlinecourses.api:dev"
+    ports: []
+    volumes:
+    - "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Api:/app:rw"
+    - "/home/beta/Escritorio/OnlineCourses:/src:rw"
+    - "/home/beta/.nuget/packages:/root/.nuget/packages"
+    working_dir: "/app"

@@ -1,0 +1,7 @@
+.appsettings.json
+appsettings.json
+.OnlineCourses.Api\appsettings.json
+OnlineCourses.Api\appsettings.json
+
+.env
+.env.*

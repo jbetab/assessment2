@@ -1,0 +1,16 @@
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/bin/Debug/net9.0/OnlineCourses.Application.deps.json
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/bin/Debug/net9.0/OnlineCourses.Application.dll
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/bin/Debug/net9.0/OnlineCourses.Application.pdb
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/bin/Debug/net9.0/OnlineCourses.Domain.dll
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/bin/Debug/net9.0/OnlineCourses.Domain.pdb
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/obj/Debug/net9.0/OnlineCourses.Application.csproj.AssemblyReference.cache
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/obj/Debug/net9.0/OnlineCourses.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/obj/Debug/net9.0/OnlineCourses.Application.AssemblyInfoInputs.cache
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/obj/Debug/net9.0/OnlineCourses.Application.AssemblyInfo.cs
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/obj/Debug/net9.0/OnlineCourses.Application.csproj.CoreCompileInputs.cache
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/obj/Debug/net9.0/OnlineCo.0AE7FBCC.Up2Date
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/obj/Debug/net9.0/OnlineCourses.Application.dll
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/obj/Debug/net9.0/refint/OnlineCourses.Application.dll
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/obj/Debug/net9.0/OnlineCourses.Application.pdb
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/obj/Debug/net9.0/ref/OnlineCourses.Application.dll
+/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/obj/Debug/net9.0/OnlineCourses.Application.sourcelink.json
