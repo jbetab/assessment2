@@ -14,10 +14,8 @@ public class LessonService
         _courseRepository = courseRepository;
         _lessonRepository = lessonRepository;
     }
-
-    /// <summary>
-    /// Regla: Order debe ser ÚNICO por curso (entre lecciones NO eliminadas).
-    /// </summary>
+    
+    
     public async Task<Lesson> CreateLessonAsync(Guid courseId, string title, int order)
     {
         var course = await _courseRepository.GetByIdAsync(courseId);
