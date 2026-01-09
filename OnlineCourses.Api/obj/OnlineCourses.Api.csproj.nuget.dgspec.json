@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Api/OnlineCourses.Api.csproj": {}
+    "/home/jero/Escritorio/assessment2/OnlineCourses.Api/OnlineCourses.Api.csproj": {}
   },
   "projects": {
-    "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Api/OnlineCourses.Api.csproj": {
+    "/home/jero/Escritorio/assessment2/OnlineCourses.Api/OnlineCourses.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Api/OnlineCourses.Api.csproj",
+        "projectUniqueName": "/home/jero/Escritorio/assessment2/OnlineCourses.Api/OnlineCourses.Api.csproj",
         "projectName": "OnlineCourses.Api",
-        "projectPath": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Api/OnlineCourses.Api.csproj",
-        "packagesPath": "/home/beta/.nuget/packages/",
-        "outputPath": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Api/obj/",
+        "projectPath": "/home/jero/Escritorio/assessment2/OnlineCourses.Api/OnlineCourses.Api.csproj",
+        "packagesPath": "/home/jero/.nuget/packages/",
+        "outputPath": "/home/jero/Escritorio/assessment2/OnlineCourses.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/beta/.nuget/NuGet/NuGet.Config"
+          "/home/jero/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -26,11 +26,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/OnlineCourses.Application.csproj": {
-                "projectPath": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/OnlineCourses.Application.csproj"
+              "/home/jero/Escritorio/assessment2/OnlineCourses.Application/OnlineCourses.Application.csproj": {
+                "projectPath": "/home/jero/Escritorio/assessment2/OnlineCourses.Application/OnlineCourses.Application.csproj"
               },
-              "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Infrastructure/OnlineCourses.Infrastructure.csproj": {
-                "projectPath": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Infrastructure/OnlineCourses.Infrastructure.csproj"
+              "/home/jero/Escritorio/assessment2/OnlineCourses.Infrastructure/OnlineCourses.Infrastructure.csproj": {
+                "projectPath": "/home/jero/Escritorio/assessment2/OnlineCourses.Infrastructure/OnlineCourses.Infrastructure.csproj"
               }
             }
           }
@@ -89,21 +89,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/beta/.dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/jero/.dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/OnlineCourses.Application.csproj": {
+    "/home/jero/Escritorio/assessment2/OnlineCourses.Application/OnlineCourses.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/OnlineCourses.Application.csproj",
+        "projectUniqueName": "/home/jero/Escritorio/assessment2/OnlineCourses.Application/OnlineCourses.Application.csproj",
         "projectName": "OnlineCourses.Application",
-        "projectPath": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/OnlineCourses.Application.csproj",
-        "packagesPath": "/home/beta/.nuget/packages/",
-        "outputPath": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/obj/",
+        "projectPath": "/home/jero/Escritorio/assessment2/OnlineCourses.Application/OnlineCourses.Application.csproj",
+        "packagesPath": "/home/jero/.nuget/packages/",
+        "outputPath": "/home/jero/Escritorio/assessment2/OnlineCourses.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/beta/.nuget/NuGet/NuGet.Config"
+          "/home/jero/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -115,8 +115,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Domain/OnlineCourses.Domain.csproj": {
-                "projectPath": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Domain/OnlineCourses.Domain.csproj"
+              "/home/jero/Escritorio/assessment2/OnlineCourses.Domain/OnlineCourses.Domain.csproj": {
+                "projectPath": "/home/jero/Escritorio/assessment2/OnlineCourses.Domain/OnlineCourses.Domain.csproj"
               }
             }
           }
@@ -161,21 +161,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/beta/.dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/jero/.dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Domain/OnlineCourses.Domain.csproj": {
+    "/home/jero/Escritorio/assessment2/OnlineCourses.Domain/OnlineCourses.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Domain/OnlineCourses.Domain.csproj",
+        "projectUniqueName": "/home/jero/Escritorio/assessment2/OnlineCourses.Domain/OnlineCourses.Domain.csproj",
         "projectName": "OnlineCourses.Domain",
-        "projectPath": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Domain/OnlineCourses.Domain.csproj",
-        "packagesPath": "/home/beta/.nuget/packages/",
-        "outputPath": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Domain/obj/",
+        "projectPath": "/home/jero/Escritorio/assessment2/OnlineCourses.Domain/OnlineCourses.Domain.csproj",
+        "packagesPath": "/home/jero/.nuget/packages/",
+        "outputPath": "/home/jero/Escritorio/assessment2/OnlineCourses.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/beta/.nuget/NuGet/NuGet.Config"
+          "/home/jero/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -220,21 +220,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/beta/.dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/jero/.dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Infrastructure/OnlineCourses.Infrastructure.csproj": {
+    "/home/jero/Escritorio/assessment2/OnlineCourses.Infrastructure/OnlineCourses.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Infrastructure/OnlineCourses.Infrastructure.csproj",
+        "projectUniqueName": "/home/jero/Escritorio/assessment2/OnlineCourses.Infrastructure/OnlineCourses.Infrastructure.csproj",
         "projectName": "OnlineCourses.Infrastructure",
-        "projectPath": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Infrastructure/OnlineCourses.Infrastructure.csproj",
-        "packagesPath": "/home/beta/.nuget/packages/",
-        "outputPath": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Infrastructure/obj/",
+        "projectPath": "/home/jero/Escritorio/assessment2/OnlineCourses.Infrastructure/OnlineCourses.Infrastructure.csproj",
+        "packagesPath": "/home/jero/.nuget/packages/",
+        "outputPath": "/home/jero/Escritorio/assessment2/OnlineCourses.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/beta/.nuget/NuGet/NuGet.Config"
+          "/home/jero/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -246,11 +246,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/OnlineCourses.Application.csproj": {
-                "projectPath": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Application/OnlineCourses.Application.csproj"
+              "/home/jero/Escritorio/assessment2/OnlineCourses.Application/OnlineCourses.Application.csproj": {
+                "projectPath": "/home/jero/Escritorio/assessment2/OnlineCourses.Application/OnlineCourses.Application.csproj"
               },
-              "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Domain/OnlineCourses.Domain.csproj": {
-                "projectPath": "/home/beta/Escritorio/OnlineCourses/OnlineCourses.Domain/OnlineCourses.Domain.csproj"
+              "/home/jero/Escritorio/assessment2/OnlineCourses.Domain/OnlineCourses.Domain.csproj": {
+                "projectPath": "/home/jero/Escritorio/assessment2/OnlineCourses.Domain/OnlineCourses.Domain.csproj"
               }
             }
           }
@@ -302,7 +302,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/beta/.dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/jero/.dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
